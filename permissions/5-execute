@@ -1,2 +1,2 @@
 #!/bin/bash
-./hello
+./hello ./5-execute
