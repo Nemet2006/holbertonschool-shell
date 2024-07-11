@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp school mktemp hello
+chgrp school hello
